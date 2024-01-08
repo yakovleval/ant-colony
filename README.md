@@ -1,4 +1,4 @@
 # Модель колонии муравьёв
 Данная программа моделирует алгоритм поведения муравьёв при поиске пищи. Пример визуализации: 
-https://github.com/yakovleval/ant-colony/assets/34238798/7d2bb47b-bfcf-4afb-b967-fcab64cb1724
+![visual](https://github.com/yakovleval/ant-colony/assets/34238798/69ed0b90-3c2e-4039-ab98-432abd88656d)
 
